@@ -2,7 +2,7 @@
 #include <vector>
 #include <cstdlib>
 using namespace std;
-
+// I used vectors because I'm lazy af
 class Array
 {
 private:
